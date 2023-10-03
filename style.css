@@ -1,0 +1,10 @@
+*  {
+    background-color: black; 
+    color: white; 
+    
+}
+
+input, button, select {
+    background-color: white;
+    color: black;
+}
