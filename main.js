@@ -1,15 +1,8 @@
-var tipoCombustivel = document.form.select.selectedIndex; 
+var tipoCombustivel = document
 
 
 
 
-
-function mostrarSelect(){
-    alert(tipoCombustivel);
-}
-
-
-var selecao = select 
 let KmaPercorrer = 150; 
 
 function calcularValor(){
